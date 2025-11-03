@@ -1,6 +1,6 @@
-# Hospital Triage System 🏥
+# Hospital Emergency Triage System 🏥
 
-This C project simulates a **Hospital Triage System** where patients are prioritized based on the severity of their condition.
+This C project simulates a **Hospital Emergency Triage System** where patients are prioritized based on the severity of their condition.
 
 ---
 
